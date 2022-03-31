@@ -1,2 +1,1 @@
-# TictacToe
-Created with CodeSandbox
+Gioco del Tris con domande e risposte
